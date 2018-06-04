@@ -1,1 +1,3 @@
 # burger
+
+This is a full stack application that uses a MYSQL database and handlebars to update the web page with all the burgers in the database and their "devoured" status. User has the ability to "eat" the burgers by pushing the button that says "devour it" and the database updates the status of the burger. User can also add new burgers to the database, specifying if the burger can still be eaten. 
